@@ -1,5 +1,5 @@
 {
-  "name": "jp.ootr.UdonBase64RLE",
+  "name": "jp.ootr.UdonBase64CSVRLE",
   "references": [
     "UdonSharp.Runtime",
     "VRC.Udon",
