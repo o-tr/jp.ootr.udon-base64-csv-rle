@@ -1,0 +1,17 @@
+{
+  "name": "jp.ootr.UdonBase64RLE",
+  "references": [
+    "UdonSharp.Runtime",
+    "VRC.Udon",
+    "VRC.Udon.Serialization.OdinSerializer"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

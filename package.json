@@ -1,0 +1,21 @@
+﻿{
+  "name": "jp.ootr.udon-base64-rle",
+  "displayName": "UdonBase64RLE",
+  "version": "0.2.6",
+  "license": "MIT",
+  "unity": "2022.3",
+  "description": "Base64 RLE Decoder",
+  "author": {
+    "email": "ootr@ootr.jp",
+    "name": "ootr",
+    "url": "https://github.com/o-tr"
+  },
+  "url": "https://github.com/o-tr/jp.ootr.udon-base64-rle/releases/latest/download/release.zip",
+  "changelogUrl": "https://github.com/o-tr/jp.ootr.udon-base64-rle/releases/",
+  "licensesUrl": "https://github.com/o-tr/jp.ootr.udon-base64-rle/blob/release/LICENSE",
+  "documentationUrl": "https://docs.ootr.jp/",
+  "vpmDependencies": {
+    "com.vrchat.base": "^3.6.1",
+    "com.vrchat.worlds": "^3.6.1"
+  }
+}
