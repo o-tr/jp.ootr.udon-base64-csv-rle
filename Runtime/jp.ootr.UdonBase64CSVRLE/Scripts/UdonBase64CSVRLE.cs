@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace jp.ootr.UdonBase64RLE
 {
-    public class UdonBase64RLECSV : UdonSharpBehaviour
+    public class UdonBase64CSVRLE : UdonSharpBehaviour
     {
         private string _input;
         private UdonSharpBehaviour _callback;
